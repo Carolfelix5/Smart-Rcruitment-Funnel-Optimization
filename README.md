@@ -19,7 +19,7 @@ AS-IS/TO-BE process design, root cause analysis, requirements documentation
 MS Word, Excel, JIRA, Draw.io,Lucid Chart, BABOK-aligned BA techniques (Stakeholder Analysis, 5 Whys, Fishbone/RCA, MoSCoW, RTM)
 
 ## Documents
-See folders 01–18 for the complete document set, in build order.
+See files 01–18 for the complete document set, in build order.
 
 ## Author
 Carol Felix | www.linkedin.com/in/carolfelix | carol.felix5302@gmail.com
